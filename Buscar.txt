@@ -1,0 +1,113 @@
+Archivos en los que buscar:
+
+5.1.04 CONSOLIDADO_IIxM.xlsx
+Columnas:Proyecto_de_investigación
+
+5.1.07 CONSOLIDADO_PROYEC.xlsx
+Columnas:
+
+5.1.09 CONSOLIDADO_PUBLI.xlsx
+Columnas:
+
+5.1.11 CONSOLIDADO_ARTCIT.xlsx
+Columnas:
+
+
+
+Patrones
+Capitulo6: 
+r"|Infraestructura computacional"
+r"|Computo"
+r"|Cómputo distribuido"
+r"|GPU"
+r"|TPU"
+r"|Eficiencia energetica"
+r"|Modelos"
+
+
+Capitulo7:
+Redes
+Cómputo
+Double descent
+Doble descenso
+Neural
+Tangent 
+Kernels
+Bottleneck
+Cuellos de botella
+Leyes escalado
+Leyes de escalado
+
+Capitulo10:
+Transforme
+	r"|(llms)"
+	r"|(llm)"
+	r"|llms?"
+	r"|modelos? de lenguaje"
+	r"|large language models?"
+Subcuadratica
+Autoatencion
+Autorregresivos
+Escalamiento
+Computacional
+SSMs
+
+Capitulo 11:
+	r"|modelos? generativos?"
+	r"|generative models?"
+Multimodales
+Representacion Cojnuta
+Modelos difusion
+Flow matching
+Predictiva
+
+Capitulo 19:
+	r"inteligencia artificial"
+	r"|artificial intelligence"
+	r"|\bia\b"
+	r"|i\.a\.?"
+mecanistiva
+Plegamiento 
+Biomolecular
+Fisica computacional
+Ingenieria inversa
+	r"|redes? neuronale?s?"
+	r"|neural network"
+
+Capitulo 22:
+Algoritmica
+Algoritmo
+Impacto social
+Automatizada
+
+Capitulo23:
+	r"inteligencia artificial"
+	r"|artificial intelligence"
+	r"|\bia\b"
+	r"|i\.a\.?"
+Huella 
+Energeticamente
+Modelo fundacionales
+
+
+Capitulo 25_
+Biomedicina
+Sistemas computacionales
+Bionica
+Bionicos
+Algoritmos
+	r"inteligencia artificial"
+	r"|artificial intelligence"
+	r"|\bia\b"
+	r"|i\.a\.?"
+
+Capitulo27:
+Industria 4
+Industria 4.0
+4.0
+Manufacutra inteligente
+Automatizacion
+Servomecanismo
+Cuarto Revolucion
+Fabricas inteligente
+
